@@ -8,3 +8,4 @@ The specific business cases of our dashboard focus on the frequency of inspectio
 The dashboard offers the capability to navigate the data in a multidimensional perspective. It helps with providing details on which areas accounted to the maximum inspections, giving the trends observed in a particular area depending on time, presenting the details about the businesses involved in the inspection as well as showing the detailed comments on the inspections.
 
 ![Dashboard](https://github.com/khaophuthaipch/Food_Inspection_Dashboard-Tableau-/blob/master/Dashboard_screenshot.png)
+Data source: https://data.boston.gov/dataset/food-establishment-inspections
